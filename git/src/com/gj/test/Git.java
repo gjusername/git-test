@@ -8,4 +8,8 @@ public class Git {
         System.out.println("酸奶");
         System.out.println("酸奶");
     }
+
+    public void food(){
+        System.out.println("巧克力曲奇");
+    }
 }
